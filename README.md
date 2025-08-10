@@ -10,7 +10,7 @@ use in stead of beating around the bush and hard-code utility systems in your pr
 
 ---
 
-## errorHhndler.h
+## errorHandler.h
 
 error handling system for windows (only thing i use)
 
